@@ -24,6 +24,6 @@ public class NorthwindApplication {
           .select()                                  
           .apis(RequestHandlerSelectors.basePackage("kodlamaio.northwind"))                                       
           .build();                                           
-    }
+    } 
 
 }
